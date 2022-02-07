@@ -1,4 +1,4 @@
-﻿
+
 # **Contributors**
 <!-- prettier-ignore-start -->
 -[Myat Su Mon] (https://github.com/myat-su-mon/)
@@ -79,6 +79,7 @@
 - [Arman Moztarzadeh] (https://github.com/armanmoztar)
 - [Srinath Aravamudhan](https://github.com/fossSpirit)
 - -[Dhanvi Medha](https://github.com/jacobalternative)
+- [Liam Edwards](https://github.com/Liam-ZE)
 - [Aayush Sharma](https://github.com/Aayush987)
 - [Milpontia N](https://github.com/lordeunicorn)
 - [Ayushi Srivastava](https://github.com/a-tanvi)
